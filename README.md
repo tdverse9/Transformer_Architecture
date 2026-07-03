@@ -31,14 +31,14 @@ Transformer/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/Transformer.git
+   git clone https://github.com/<tdverse9>/Transformer_Architecture.git
    cd Transformer
    ```
 
 2. (Optional) Create a virtual environment:
    ```bash
    python -m venv venv
-   source venv/bin/activate   # On Windows: venv\Scripts\activate
+   source venv/bin/activate  
    ```
 
 3. Install dependencies:
@@ -68,7 +68,3 @@ See [`requirements.txt`](./requirements.txt) for the full list of dependencies.
 ## Contributing
 
 Contributions, issues, and feature requests are welcome. Feel free to open a pull request or issue.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details (add one if not already present).
